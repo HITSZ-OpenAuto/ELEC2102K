@@ -7,7 +7,7 @@
 ## 授课教师
 
 <!-- TOML-LECTURERS: part="items" -->
-- 金虎 Hu Jin （韩）
+- 金虎 Hu Jin（韩）
   <!-- TOML-ITEM: id="review-教师A-1" -->
   - 理论课老师。[教师个人主页](https://wcsl.hanyang.ac.kr/professor)
   - 老师会说中文且说得非常好，课上有时遇到英文解释大家实在难以理解的地方还会用中文重新解释。
