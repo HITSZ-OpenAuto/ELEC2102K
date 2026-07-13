@@ -1,73 +1,42 @@
-# CODE1234 - 课程中文名称
+# ELEC2102k - 概率和数理统计
 <!-- TOML-META: repo_type="normal" -->
 
-在这里填写课程的简要介绍。
-可以换行。
+韩方授课，全英文，课程除概率和数理统计书面内容外，还涉及 `MATLAB` 的学习。
+学生一般不会与教师进行直接的互动，而是通过助教进行沟通。
 
 ## 授课教师
 
-<!-- TOML-LECTURERS: part="intro" -->
-
-<!-- TOML-ITEM: id="lecturers-intro-1" -->
-
-教师团队总体介绍。
-人数: 3人
-
-> 文 / 管理员，2025-01
-
-<!-- TOML-ITEM: id="lecturers-intro-2" -->
-
-研究方向: 机器学习、计算机视觉
-
-> 文 / 管理员，2025-01
-
 <!-- TOML-LECTURERS: part="items" -->
-- 教师A
+- 金虎 Hu Jin（韩）
   <!-- TOML-ITEM: id="review-教师A-1" -->
-  - 教师评价内容。
-  - 可以多行。
-    > 文 / [昵称](https://github.com/xxx)，2025-03
-  <!-- TOML-ITEM: id="review-教师A-2" -->
-  - 另一条评价
-    > 文 / 匿名，2025-01
-- 教师B
-  <!-- TOML-ITEM: id="review-教师B-1" -->
-  - 教师B的评价
-    > 文 / 学生，2024-12
-<!-- TOML-LECTURERS: part="summary" -->
-
-<!-- TOML-ITEM: id="lecturers-summary-1" -->
-
-教师团队总结。
-整体教学水平较高。
-
-> 文 / 管理员，2025-01
-
-<!-- TOML-ITEM: id="lecturers-summary-2" -->
-
-建议: 尽早选课，晚了好老师就没了
-
+  - 理论课老师。[教师个人主页](https://wcsl.hanyang.ac.kr/professor)
+  - 老师会说中文且说得非常好，课上有时遇到英文解释大家实在难以理解的地方还会用中文重新解释。
+  - 无考勤，每章结束会留教材课后习题作业，但不收。
+- 张蔚
+  - 实验课老师。[教师个人主页](https://weizhang-site.github.io)
+  - 4 节实验课穿插在理论课程之间，差不多是每阶段性内容的总结与应用。
+  - 实验课在学校机房（或自带笔记本）使用 `MATLAB` 进行代码编写（ 25 级最后几节课优化为老师提供大部分代码，学生仅填写完整代码空白处即可）。
+  - 实验课为整个 1 - 4 节或 5 - 8 节，有签到，课上完成代码后老师或助教会随机提问一段代码让你解释，解释清楚后才可提前签退离开。
+    > 文 / [61m](https://github.com/61mo)，2026-07
 ## 考核方式
 <!-- TOML-SECTION: title="考核方式" -->
 
 <!-- TOML-ITEM: id="item-考核方式-1" -->
 
-• 平时成绩: 30%
-• 期中考试: 30%
-• 期末考试: 40%
+- 平时成绩：实验课实验报告成绩。
+- 期中考试：占用一节理论课时间进行期中考试，考试内容主要为概率部分，大部分题难度与高中类似。
+- 期末考试：6 道大题，考第 5 章及以后内容。
 
-> 文 / 昵称A，2025-03
+> 文 / [61m](https://github.com/61mo)，2026-07
 
-<!-- TOML-ITEM: id="item-考核方式-2" -->
+## 个人实验仓库
 
-• 2024年: 期末 60% + 平时 40%
-
-> 文 / 昵称B，2024-01
+- [61mo/hitsz-statistics-and-data-analysis](https://github.com/61mo/hitsz-statistics-and-data-analysis): `MATLAB` 源代码、`Live Script` 文件、`Word` 导出文件以及实验报告。
 
 ## 学习资料
 <!-- TOML-SECTION: title="学习资料" -->
 
 <!-- TOML-ITEM: id="item-学习资料-1" -->
 
-• 教材: 《书名》
-• 参考资料链接
+- 教材：Probability & Statistic for Engineers & Scientists (9th Edition) / Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye
+- 中文版教材（中国人民大学出版社）：概率与统计（理工类 · 第 9 版）/ 袁东雪、龙少波译
