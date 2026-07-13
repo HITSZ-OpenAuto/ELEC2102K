@@ -8,16 +8,18 @@
 
 <!-- TOML-LECTURERS: part="items" -->
 - 金虎 Hu Jin（韩）
-  <!-- TOML-ITEM: id="review-教师A-1" -->
+  <!-- TOML-ITEM: id="review-金虎 Hu Jin（韩）-1" -->
   - 理论课老师。[教师个人主页](https://wcsl.hanyang.ac.kr/professor)
   - 老师会说中文且说得非常好，课上有时遇到英文解释大家实在难以理解的地方还会用中文重新解释。
   - 无考勤，每章结束会留教材课后习题作业，但不收。
 - 张蔚
+  <!-- TOML-ITEM: id="review-张蔚-1" -->
   - 实验课老师。[教师个人主页](https://weizhang-site.github.io)
   - 4 节实验课穿插在理论课程之间，差不多是每阶段性内容的总结与应用。
   - 实验课在学校机房（或自带笔记本）使用 `MATLAB` 进行代码编写（ 25 级最后几节课优化为老师提供大部分代码，学生仅填写完整代码空白处即可）。
   - 实验课为整个 1 - 4 节或 5 - 8 节，有签到，课上完成代码后老师或助教会随机提问一段代码让你解释，解释清楚后才可提前签退离开。
     > 文 / [61m](https://github.com/61mo)，2026-07
+
 ## 考核方式
 <!-- TOML-SECTION: title="考核方式" -->
 
@@ -30,6 +32,9 @@
 > 文 / [61m](https://github.com/61mo)，2026-07
 
 ## 个人实验仓库
+<!-- TOML-SECTION: title="个人实验仓库" -->
+
+<!-- TOML-ITEM: id="item-个人实验仓库-1" -->
 
 - [61mo/hitsz-statistics-and-data-analysis](https://github.com/61mo/hitsz-statistics-and-data-analysis): `MATLAB` 源代码、`Live Script` 文件、`Word` 导出文件以及实验报告。
 
